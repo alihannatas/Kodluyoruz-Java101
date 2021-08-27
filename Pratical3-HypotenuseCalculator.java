@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Homework {
+public class HypotenuseCalculator{
 
 
     public static void main(String[] args){
