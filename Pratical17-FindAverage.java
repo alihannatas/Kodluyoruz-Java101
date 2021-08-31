@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Homework {
+public class FindAvarage{
 
 
     public static void main(String[] args)     {
