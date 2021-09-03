@@ -15,6 +15,7 @@ public class MethodPattern{
         public static void main(String[] args)     {
 
         Scanner input = new Scanner(System.in);
+	System.out.print("Lutfen bir sayi giriniz:");
         int a=input.nextInt();
 
         int b = a;
