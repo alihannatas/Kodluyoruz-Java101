@@ -9,6 +9,7 @@ public class NumberGuessingGame{
         int number = (int) (Math.random() * 100);
         System.out.println(number);
         int health = 5;
+        int[] array=new int[health];
         boolean control = false;
 
         for (int i = 0; i < health; ) {
@@ -19,6 +20,7 @@ public class NumberGuessingGame{
                 control = true;
                 break;
             } else {
+                array[i]=numberr;
                 i++;
                 System.out.println("Hatali bir sayi girdiniz.");
                 System.out.println("Kalan hakkiniz: " + (health - i));
@@ -31,7 +33,12 @@ public class NumberGuessingGame{
         }
 
         if (control == true) System.out.println("Tebrikler sayiyi dogru buldunuz.\n Sayi : " + number);
-        else System.out.println("You lost the game");
+        else {
+            System.out.println("You lost the game");
+            System.out.print("Tahminleriniz :"+ Arrays.toString(array));
 
+                }
+        }
     }
-}
+
+
