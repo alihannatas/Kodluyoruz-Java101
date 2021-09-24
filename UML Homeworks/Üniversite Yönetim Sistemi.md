@@ -7,6 +7,10 @@
 - Üniversiteye ait çalışanlar vardır. Bu çalışanlar profesör veya memur olabilir.
 - Her çalışan bir ofiste çalışır.
 
+
+
+
+
 ![](C:\Users\Alihan\Desktop\Üniversite Yönetim Sistemi.PNG)
 
 **Alihan Atas**
