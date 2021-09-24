@@ -1,4 +1,4 @@
-## Üniversite Yönetim Sistemi
+## Üniversite Yönetim Sistemi[Class Diagram ]
 
 
 
@@ -7,11 +7,7 @@
 - Üniversiteye ait çalışanlar vardır. Bu çalışanlar profesör veya memur olabilir.
 - Her çalışan bir ofiste çalışır.
 
+![Üniversite Yönetim Sistemi](C:\Users\Alihan\Desktop\Patika Odev Klasoru\Java\ODEV DOSYALARI\UML Homeworks\Üniversite Yönetim Sistemi.PNG)
 
-
-
-
-![](C:\Users\Alihan\Desktop\Üniversite Yönetim Sistemi.PNG)
-
-**Alihan Atas**
+## **Alihan Atas**
 
